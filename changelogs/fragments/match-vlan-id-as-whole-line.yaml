@@ -1,0 +1,2 @@
+bugfixes:
+  - nxos_vlan - fixed issue where vlan names starting with digits failed. fixes https://github.com/ansible/ansible/issues/50998
